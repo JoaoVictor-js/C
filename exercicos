@@ -1,0 +1,63 @@
+Aqui estão 50 exercícios que cobrem as funcionalidades mencionadas, como declaração de variáveis, entrada/saída de dados, condicionais, loops, vetores, strings e matrizes em C:
+
+### Exercícios Básicos
+1. **Declaração de Variáveis:** Declare variáveis de todos os tipos básicos (int, float, char) e exiba seus valores iniciais.
+2. **Entrada e Saída de Dados:** Escreva um programa que peça ao usuário para inserir um número inteiro e depois exiba esse número.
+3. **Condicional Simples:** Escreva um programa que leia um número e verifique se ele é par ou ímpar.
+4. **Condicional Composta:** Peça ao usuário para inserir sua idade e verifique se ele é maior de idade (18 anos ou mais).
+5. **Loop `while`:** Implemente um loop que exiba os números de 1 a 10.
+6. **Loop `for`:** Use um loop `for` para exibir a tabuada de um número fornecido pelo usuário.
+7. **Loop `do-while`:** Escreva um programa que continue pedindo um número ao usuário até que ele insira um número negativo.
+8. **Array de Inteiros:** Declare um array de 5 inteiros, peça ao usuário para preencher os valores e depois exiba o array.
+9. **String:** Escreva um programa que peça ao usuário para inserir uma string e depois exiba o comprimento da string.
+10. **Matriz 2x2:** Declare uma matriz 2x2, peça ao usuário para preencher os valores e depois exiba a matriz.
+
+### Exercícios Intermediários
+11. **Operações Aritméticas:** Peça ao usuário dois números inteiros e exiba a soma, subtração, multiplicação e divisão entre eles.
+12. **Conversão de Tipos:** Leia um número do tipo `float`, converta-o para `int` e exiba ambos os valores.
+13. **Calculadora Simples:** Escreva um programa que simule uma calculadora básica (adição, subtração, multiplicação, divisão).
+14. **Verificação de Ano Bissexto:** Escreva um programa que verifique se um ano é bissexto ou não.
+15. **Soma de Elementos de um Array:** Declare um array de 10 inteiros, peça ao usuário para preenchê-lo e depois exiba a soma de todos os elementos.
+16. **Média de Números:** Peça ao usuário para inserir 5 números e exiba a média desses números.
+17. **Palíndromo:** Escreva um programa que verifique se uma string é um palíndromo (lê-se da mesma forma de trás para frente).
+18. **Busca em Array:** Escreva um programa que peça ao usuário para inserir 10 números e depois verifique se um número específico está no array.
+19. **Matriz Identidade:** Declare uma matriz 3x3 e preencha-a como uma matriz identidade (1's na diagonal e 0's nos demais elementos).
+20. **Contagem de Vogais:** Escreva um programa que conte e exiba o número de vogais em uma string fornecida pelo usuário.
+
+### Exercícios Avançados
+21. **Ordenação de Array:** Escreva um programa que ordene um array de 10 números em ordem crescente.
+22. **Fibonacci com `while`:** Implemente um programa que exiba os primeiros 10 números da sequência de Fibonacci usando um loop `while`.
+23. **Fatorial:** Escreva um programa que calcule o fatorial de um número fornecido pelo usuário.
+24. **Verificação de Número Primo:** Escreva um programa que verifique se um número é primo.
+25. **Inversão de String:** Escreva um programa que inverta uma string fornecida pelo usuário.
+26. **Diagonal Principal de uma Matriz:** Declare uma matriz 4x4 e exiba apenas os elementos da diagonal principal.
+27. **Multiplicação de Matrizes:** Escreva um programa que multiplique duas matrizes 2x2 fornecidas pelo usuário.
+28. **Comparação de Strings:** Escreva um programa que compare duas strings e verifique se elas são iguais.
+29. **Transposta de uma Matriz:** Escreva um programa que calcule a transposta de uma matriz 3x3.
+30. **Maior e Menor Elemento do Array:** Peça ao usuário para inserir 10 números em um array e exiba o maior e o menor valor inserido.
+
+### Exercícios com Desafios
+31. **Contagem de Elementos Pares e Ímpares:** Escreva um programa que conte quantos elementos pares e ímpares existem em um array de 20 números.
+32. **Conversão de Temperaturas:** Escreva um programa que converta uma temperatura de Celsius para Fahrenheit e vice-versa.
+33. **Somatório de Matriz:** Declare uma matriz 3x3, preencha-a com valores fornecidos pelo usuário e exiba a soma de todos os elementos.
+34. **Jogo de Adivinhação:** Escreva um programa onde o usuário tenta adivinhar um número entre 1 e 100 gerado pelo computador.
+35. **Contagem de Caracteres em String:** Escreva um programa que conte o número de caracteres específicos (por exemplo, 'a') em uma string fornecida pelo usuário.
+36. **Inversão de Array:** Escreva um programa que inverta os elementos de um array de 10 números.
+37. **Matriz Simétrica:** Verifique se uma matriz 3x3 é simétrica.
+38. **Busca Binária:** Implemente o algoritmo de busca binária para procurar um número em um array ordenado.
+39. **Cálculo de Determinante de uma Matriz 2x2:** Escreva um programa que calcule o determinante de uma matriz 2x2.
+40. **Deslocamento Circular de Array:** Escreva um programa que realize um deslocamento circular à direita em um array de 10 elementos.
+
+### Exercícios de Aplicação
+41. **Cálculo de Média de Alunos:** Escreva um programa que calcule a média de notas de 5 alunos, cada um com 3 notas.
+42. **Validação de CPF:** Escreva um programa que verifique se um CPF fornecido pelo usuário é válido.
+43. **Histograma de Frequência:** Escreva um programa que exiba um histograma de frequência para os elementos de um array de 10 números.
+44. **Soma de Diagonais de uma Matriz:** Escreva um programa que calcule a soma dos elementos das diagonais principal e secundária de uma matriz 4x4.
+45. **Contagem de Palavras em uma String:** Escreva um programa que conte o número de palavras em uma string fornecida pelo usuário.
+46. **Número Perfeito:** Escreva um programa que verifique se um número é perfeito (igual à soma de seus divisores, exceto ele mesmo).
+47. **Interseção de Arrays:** Escreva um programa que calcule a interseção de dois arrays de 10 elementos cada.
+48. **Multiplicação Escalar de Vetores:** Escreva um programa que calcule a multiplicação escalar de dois vetores de 5 elementos cada.
+49. **Validação de Palíndromo de Números:** Escreva um programa que verifique se um número inteiro é um palíndromo.
+50. **Ordenação de Matriz:** Escreva um programa que ordene os elementos de uma matriz 3x3 em ordem crescente.
+
+Esses exercícios abrangem uma ampla gama de conceitos e dificuldades, fornecendo uma base sólida para entender as principais funcionalidades da linguagem C.
