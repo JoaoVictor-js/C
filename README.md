@@ -1,4 +1,4 @@
-#APRENDA LINGUAGEM C!!
+#APRENDA LINGUAGEM C!!#
 
 aqui contem :
 -cheatsheets: um arquivo cheios de codigos basicos para você aprender.
