@@ -1,0 +1,44 @@
+### **Windows**
+1. **Visual Studio Code**
+   - **Descrição:** Um editor de código leve e personalizável com suporte a várias linguagens de programação. Requer a instalação de extensões específicas para C/C++.
+   - **Link:** [Visual Studio Code](https://code.visualstudio.com/)
+
+2. **Code::Blocks**
+   - **Descrição:** Uma IDE gratuita e de código aberto que é leve e fácil de usar, com suporte nativo para C/C++.
+   - **Link:** [Code::Blocks](http://www.codeblocks.org/)
+
+3. **Dev-C++**
+   - **Descrição:** Uma IDE leve e gratuita para C/C++ com um ambiente de desenvolvimento integrado.
+   - **Link:** [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/)
+
+### **Mac**
+1. **Xcode**
+   - **Descrição:** A IDE oficial da Apple, principalmente para desenvolvimento em Swift e Objective-C, mas também suporta C/C++. É robusta e oferece muitas ferramentas de depuração.
+   - **Link:** [Xcode](https://developer.apple.com/xcode/)
+
+2. **CLion**
+   - **Descrição:** Uma IDE da JetBrains com suporte para C/C++ que oferece refatoração, depuração e análise de código avançados.
+   - **Link:** [CLion](https://www.jetbrains.com/clion/)
+
+3. **Visual Studio Code**
+   - **Descrição:** Também disponível para macOS, oferece uma experiência consistente para desenvolvimento em C/C++ com suporte a extensões.
+   - **Link:** [Visual Studio Code](https://code.visualstudio.com/)
+
+### **Celular**
+1. **Cxxdroid (Android)**
+   - **Descrição:** Um ambiente de programação C/C++ para Android com suporte completo para a linguagem e uma interface de usuário amigável.
+   - **Link:** [Cxxdroid](https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid)
+
+2. **AIDE - C++ (Android)**
+   - **Descrição:** Uma IDE que permite programar em C/C++ diretamente no seu dispositivo Android. Inclui um editor com destaque de sintaxe e compilador.
+   - **Link:** [AIDE - C++](https://play.google.com/store/apps/details?id=com.aide.cpp)
+
+3. **Koder (iOS)**
+   - **Descrição:** Um editor de código para iOS que suporta diversas linguagens, incluindo C. Ideal para edição rápida e compilação remota.
+   - **Link:** [Koder](https://apps.apple.com/us/app/koder-code-editor/id1447484615)
+
+4. **Dcoder**
+- **Descrição:** Um IDE de programação baseado em nuvem disponível para dispositivos móveis, suportando várias linguagens de programação, incluindo C. Permite escrever, compilar e executar código diretamente no celular.
+- **Link:** 
+  - **Android:** [Dcoder no Google Play](https://play.google.com/store/apps/details?id=com.paprbit.dcoder)
+  - **iOS:** [Dcoder na App Store](https://apps.apple.com/us/app/dcoder-compiler-ide/id1470893537)
